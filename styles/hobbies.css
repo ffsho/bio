@@ -1,0 +1,24 @@
+.left {
+    float: left;
+    width: 48%;
+  }
+
+.left img {
+    width: 50%;
+    height: 50%;
+    float: left;
+    margin: 4px 10px 2px 0px;
+}
+
+
+.right {
+    float: right;
+    width: 48%;
+}
+
+.right img {
+    width: 50%;
+    height: 50%;
+    float: right;
+    margin: 4px 10px 2px 0px;
+}
